@@ -16,6 +16,7 @@ Applying, Studying, and Passing with Confidence
 * 60 months leading projects
 * 35 hours of PM education **OR** CAPM
 
+> Project management education course: https://www.udemy.com/course/pmp-pmbok6-35-pdus/?couponCode=MT260126G2B
 > “Leading projects” does **not** require the title “Project Manager.”
 
 ---
@@ -82,6 +83,7 @@ PMI wants to know if you:
 ---
 
 ## 4. Study Strategy (8–10 Week Plan)
+*See r/pmp and r/pmpprep on Reddit for excellent study tips.*
 
 ### Week 1–2: PMP Mindset Reset
 
